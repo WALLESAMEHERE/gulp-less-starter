@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter kit to use Gulp with Less.
 ====================================
 A super clean and easy to use starter kit for using Gulp and Less. This should help you repurpose Gulp and Less for your own projects.
@@ -72,3 +73,6 @@ gulp
 #### Special Thanks
 
 To Kenny Song for his contributions and https://github.com/baivong
+=======
+# gulp-less-starter
+>>>>>>> 340fda413de7d3da38e4b3502c7865600e75e6fa
